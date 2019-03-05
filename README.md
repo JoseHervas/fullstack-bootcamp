@@ -6,6 +6,13 @@ On the <a href="Exercises"> exercises </a> folder you will find challenges to te
 
 On the <a href="Utilities"> utilities </a> folder you will find cheatsheets, checklists, READMEs templates, etc...
 
+#### Aditional resources
+
+- <a href="https://www.w3schools.com/">W3Schools</a>
+- <a href="https://developer.mozilla.org/es/">MDN Web Docs</a>
+- <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">Bootstrap documentation</a>
+- <a href="https://angular.io/docs">Angular documentation</a>
+
 #### Contributors
 
 - Jose
