@@ -1,6 +1,6 @@
 ### Utilities for the modern full-stack developer
 
-- <strong><a href="Cheatsheets">Cheatsheets</a></strong> contains multiple list with the most common commands of a given technology.
+- <strong><a href="Cheatsheets">Cheatsheets</a></strong> contains multiple lists with the most common commands of a given technology.
 - <strong><a href="Checlists">Checlists</a></strong> contains lists with the most common points we have to take care on every project.
 - <strong><a href="ESLint">ESLint</a></strong> contains common configuration files for our favourite linter.
 - <strong><a href="Gitignore">Gitignore</a></strong> contains examples of .gitignore files.

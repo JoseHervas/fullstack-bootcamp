@@ -1,11 +1,12 @@
 
-### Exercises
+### Contents
 
-Practical challenges to train your skills on web development technologies. Each folder contains a description of the exercise and the associated materials.
+Lectures & practical challenges to train your skills on web development technologies. Each folder contains a README with the links and descriptions of the exercises.
 
-### Contents:
+### Folder structure:
 ```
 ├───01-Front-end
+│   ├───00-HTML+CSS
 │   ├───01-SASS
 │   │   ├───01-Variables
 │   │   ├───02-Imports

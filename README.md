@@ -2,16 +2,28 @@
 
 This project contains resources for the bootcamp "Full-stack developer".
 
-On the <a href="Exercises"> exercises </a> folder you will find challenges to test your skills on many areas of the front and back-end development.
+On the <strong><a style="color:green" href="Contents"> contents </a></strong> folder you will find recommended lectures & challenges to test your skills on many areas of the front and back-end development.
 
-On the <a href="Utilities"> utilities </a> folder you will find cheatsheets, checklists, READMEs templates, etc...
+On the <strong><a style="color:green" href="Utilities"> utilities </a></strong> folder you will find cheatsheets, checklists, READMEs templates, etc...
 
-#### Aditional resources
+#### Indispensable resources for the web dev
 
-- <a href="https://www.w3schools.com/">W3Schools</a>
-- <a href="https://developer.mozilla.org/es/">MDN Web Docs</a>
-- <a href="https://getbootstrap.com/docs/4.3/getting-started/introduction/">Bootstrap documentation</a>
-- <a href="https://angular.io/docs">Angular documentation</a>
+- <a href="https://medium.com/">Medium</a>
+- <a href="https://github.com/kamranahmedse/developer-roadmap">The web developer roadmap</a>
+- <a href="https://designrevision.com/best-code-editor/">Comparision of code editors</a>
+- <a href="https://www.amazon.es/verdadera-bala-antiestr%C3%A9s-aleatorio-reeducaci%C3%B3n/dp/B002HEMVEK/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=antiestr%C3%A9s&qid=1553431761&s=gateway&sr=8-5">Anti-stress toys</a>
+- <a href="http://devhumor.com/">Memes ❤️</a>
+
+#### People to follow
+
+- <a href="https://twitter.com/DoctorCode2">@DoctorCode</a>
+- <a href="https://twitter.com/freeCodeCamp">@FreeCodeCamp</a>
+- <a href="https://twitter.com/_100DaysOfCode">@100DaysOfCode</a>
+- <a href="https://twitter.com/FullstackByte">@FullStackByte</a>
+- <a href="https://twitter.com/moderndotweb">@Modern Web</a>
+- <a href="https://twitter.com/JavaScriptDaily">@JavaScriptDaily</a>
+
+
 
 #### Contributors
 
