@@ -17,8 +17,9 @@ Lectures & practical challenges to train your skills on web development technolo
 │   │   └───07-Mixins
 │   ├───02-Bootstrap
 │   │   ├───01-Intro
-│   │   ├───02-Media-queries
-│   │   └───03-Grid
+│   │   ├───02-Components
+│   │   ├───03-Grid
+│   │   └───04-Exercises
 │   ├───03-JavaScript
 │   │   ├───01-VanillaJS
 │   │   │   ├───01-Intro

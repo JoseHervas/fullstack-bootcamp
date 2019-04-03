@@ -1,0 +1,15 @@
+.feature h2 {
+  font-size: 17px;
+  line-height: 25px;
+  font-weight: bold;
+  color: #666666;
+}
+.feature p {
+  font-size: 15px;
+  color: #B3B3B3;
+  font-weight: 300;
+}
+.feature img {
+  height: 23px;
+  margin-right: 5px;
+}

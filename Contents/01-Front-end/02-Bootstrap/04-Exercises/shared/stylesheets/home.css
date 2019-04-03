@@ -1,0 +1,22 @@
+@import url("banner.css");
+@import url("footer.css");
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  color: #141414;
+}
+.card{
+  padding: 10px;
+  font-weight: 300;
+}
+.card h2{
+  font-size: 20px;
+}
+.padded {
+  padding-top: 8em;
+  padding-bottom: 8em;
+}
+.blue-bg {
+  background: #469AE0;
+  color: white;
+}
