@@ -1,0 +1,66 @@
+{
+	"week": 4,
+	"questions": [
+		{
+			"title": "¿Qué Bootcamp estás cursando?",
+			"required": true,
+			"type": "single-choice",
+			"answers": [
+				"UX/UI Design Bootcamp",
+				"Full-Stack Bootcamp",
+				"Data Science Bootcamp"
+			]
+		},
+		{
+			"title": "¿Consideras que el temario impartido esta semana, se adapta al programa?",
+			"required": true,
+			"type": "single-choice",
+			"answers": [
+				"Sí",
+				"No"
+			]
+		},
+		{
+			"title": "¿Consideras que estás avanzando al ritmo adecuado? Siendo 1 poco adecuado y 5 muy adecuado.",
+			"required": true,
+			"type": "single-choice",
+			"answers": [
+				"1",
+				"2",
+				"3",
+				"4",
+				"5"
+			]
+		},
+		{
+			"title": "¿Estás llevando a la práctica la teoría de manera satisfactoria? Siendo 1 poco satisfactorio y 5 muy satisfactorio",
+			"required": true,
+			"type": "single-choice",
+			"answers": [
+				"1",
+				"2",
+				"3",
+				"4",
+				"5"
+			]
+		},
+		{
+			"title": "¿El Head Teacher aclara tus dudas y transmite los conocimientos de manera adecuada?",
+			"required": true,
+			"type": "single-choice",
+			"answers": [
+				"Sí",
+				"No"
+			]
+		},
+		{
+			"title": "¿El Teacher Assistant aclara tus dudas y transmite los conocimientos de manera adecuada?",
+			"required": false,
+			"type": "single-choice",
+			"answers": [
+				"Sí",
+				"No"
+			]
+		}
+	]
+}
