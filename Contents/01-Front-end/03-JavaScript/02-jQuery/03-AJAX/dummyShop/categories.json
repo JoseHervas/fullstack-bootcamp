@@ -1,8 +1,15 @@
 {
 	"status": "ok!",
-	"categories": [
-		{"name": "Home", "id": 1},
-		{"name": "Electronics", "id": 2}
-		{"name": "Fashion", "id": 3}
+	"categories": [{
+			"name": "Home",
+			"id": 1
+		},
+		{
+			"name": "Electronics",
+			"id": 2
+		}, {
+			"name": "Fashion",
+			"id": 3
+		}
 	]
 }

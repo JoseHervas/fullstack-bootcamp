@@ -1,29 +1,29 @@
 {
 	"status": "ok!",
-	"products": [
-		{
-			"name": "Mesita salón", 
+	"products": [{
+			"name": "Mesita salón",
 			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71sueHDmhjL._SL1500_.jpg",
 			"price": 24,
 			"unit": "$",
 			"description": "Create the prefect living room space with this Furinno End Table with Bin. This end table will sit perfectly next to your chair or sofa and both beautiful and functional. Featuring one fabric drawer is perfect for keeping DVDs and remotes corralled, while an open shelf makes a marvelous spot to put a lush potted succulent on display. Rounded edge design prevents potential injuries. This storage end table is easy assembly with step by step instruction. Care instructions: wipe clean with clean damped cloth. Avoid using harsh chemicals. Pictures are for illustration purpose. All decor items are not included in this offer."
 		},
 		{
-			"name": "Juego de cuchillos para cocina", 
+			"name": "Juego de cuchillos para cocina",
 			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71OoifMpDUL._SL1500_.jpg",
 			"price": 12,
 			"unit": "$",
-			"description": "Introducing the Cuisinart Classic Stainless Steel Cutlery 15-piece Block Set. This set includes an 8" Chef Knife, 8" Slicing Knife, 7" Santoku Knife, 5.5" Serrated Utility Knife, 3.5" Paring Knife, 3.5" Bird's Beak Paring Knife, 8" Sharpening Steel, All-Purpose Household Shears and Block to hold them all."
+			"description": "Introducing the Cuisinart Classic Stainless Steel Cutlery 15-piece Block Set."
+
 		},
 		{
-			"name": "Juego de sábanas", 
+			"name": "Juego de sábanas",
 			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/41jyImOtR3L.jpg",
 			"price": 15,
 			"unit": "$",
 			"description": "Create the luxury retreat you've always wanted in your own home with this Deluxe Hotel 1400 Series 300 Thread Count 100% Cotton Sateen Dobby Stripe Sheet Set. The softest sheets you will ever sleep on, they’re crafted out of 100% cotton sateen with a 300 thread count for increased durability and luxurious, soft comfort."
 		},
 		{
-			"name": "Roomba aspiradora", 
+			"name": "Roomba aspiradora",
 			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/81Si0j-N4HL._SL1500_.jpg",
 			"price": 150,
 			"unit": "$",
