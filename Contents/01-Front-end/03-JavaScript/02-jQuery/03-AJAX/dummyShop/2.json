@@ -1,0 +1,27 @@
+{
+	"status": "ok!",
+	"products": [
+		{
+			"name": "Moto X (4th Generation)", 
+			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/61TTEa57aTL._SL1500_.jpg",
+			"price": 119,
+			"unit": "$",
+			"description": "Introducing Moto X4, a phone designed like no other, with the power of Amazon Alexa hands-free. Stay protected from splashes with IP68-rated water resistance. With an advanced 12 MP + 8 MP dual rear camera system, it’s made for taking your best photos ever. Incredibly sharp images in low light. Breathtaking wide angle shots. Even panoramic selfies with a 16 MP front camera. With a precision-crafted glass and metal design, it’s as beautiful as it is strong. Wherever life takes you, power through the day with a 3000 mAh battery and a fast octa-core processor. Enjoy intuitive Moto Experiences that make using Moto X4 easier and more fun. The new Moto X4, in a word, exceptional."
+		},
+		{
+			"name": "Portátil Acer", 
+			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/618oANL1phL._SL1500_.jpg",
+			"price": 329,
+			"unit": "$",
+			"description": "The new Aspire E Series laptops provide a comprehensive range of choices for every-day users, with many appealing features and an attractive design. Incredible performance, fast 802.11ac wireless with new MU-MIMO technology and great battery life make the Aspire E series shine in any situation."
+		},
+		{
+			"name": "SmartTV", 
+			"imageURL": "https://images-na.ssl-images-amazon.com/images/I/71JtICvRSTL._SL1500_.jpg",
+			"price": 200,
+			"unit": "$",
+			"description": "Smart functionality delivers all your favorite content with over 500, 000 movies and TV episodes, accessible through the simple and intuitive Roku TV"
+		}
+	]
+
+}

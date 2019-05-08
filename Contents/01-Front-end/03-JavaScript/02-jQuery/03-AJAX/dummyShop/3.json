@@ -1,0 +1,26 @@
+{
+	"status": "ok!",
+	"products": [
+		{
+			"name": "Abrigo Mujer", 
+			"imageURL": "https://ae01.alicdn.com/kf/HTB1K5LmXOzxK1RjSspjq6AS.pXak/Seenimoe-2019-mujeres-Chaleco-de-invierno-Chaleco-de-algod-n-Chaleco-de-abrigo-de-mujer-de.jpg_640x640.jpg",
+			"price": 15,
+			"unit": "$",
+			"description": "Seenimoe 2019 mujeres Chaleco de invierno Chaleco de algodón Chaleco de abrigo de mujer de Color sólido S-3XL mujer Top calidad chaleco chaqueta sin mangas"
+		},
+		{
+			"name": "Chauqeta mujer", 
+			"imageURL": "https://ae01.alicdn.com/kf/HTB1.u.EOMHqK1RjSZFEq6AGMXXa7/DAJANE-locomotora-real-de-cuero-piel-de-oveja-de-mujer-de-cuero-de-la-motocicleta-chaqueta.jpg",
+			"price": 86,
+			"unit": "$",
+			"description": "DAJANE locomotora real de cuero piel de oveja de mujer de cuero de la motocicleta chaqueta de niñas abrigo chaqueta de cuero real chelsea chaqueta"
+		},{
+			"name": "Abrigo Mujer", 
+			"imageURL": "https://ae01.alicdn.com/kf/HTB1uRPkLG6qK1RjSZFmq6x0PFXa4/Las-mujeres-chaqueta-b-sica-abrigo-2019-mujer-Parkas-larga-con-capucha-abrigo-Parkas-abrigo-con.jpg",
+			"price": 10,
+			"unit": "$",
+			"description": "Las mujeres chaqueta básica abrigo 2019 mujer Parkas larga con capucha abrigo Parkas abrigo con cremallera Botón de bocina prendas de piel elegante, casaco feminino 50"
+		}
+	]
+
+}
