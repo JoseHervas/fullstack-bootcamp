@@ -1,6 +1,8 @@
+<p align="center"> 
 <img src="flat,550x550,075,f.u1.jpg" height=200>
+</p>
 
-This project contains resources for the bootcamp "Full-stack developer".
+This repo contains resources for the bootcamp "Full-stack developer".
 
 On the <strong><a style="color:green" href="Contents"> contents </a></strong> folder you will find recommended lectures & challenges to test your skills on many areas of the front and back-end development.
 
@@ -14,11 +16,10 @@ On the <strong><a style="color:green" href="Utilities"> utilities </a></strong> 
 - <a href="https://www.amazon.es/verdadera-bala-antiestr%C3%A9s-aleatorio-reeducaci%C3%B3n/dp/B002HEMVEK/ref=sr_1_5?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=antiestr%C3%A9s&qid=1553431761&s=gateway&sr=8-5">Anti-stress toys</a>
 - <a href="http://devhumor.com/">Memes ❤️</a>
 
-#### People to follow
+#### Resources to stay up to date
 
-- <a href="https://twitter.com/DoctorCode2">@DoctorCode</a>
-- <a href="https://twitter.com/freeCodeCamp">@FreeCodeCamp</a>
-- <a href="https://twitter.com/_100DaysOfCode">@100DaysOfCode</a>
+- <a href="https://hackernoon.com/">Hackernoon</a>
+- <a href="https://www.freecodecamp.org/news/">FreeCodeCamp</a>
 - <a href="https://twitter.com/FullstackByte">@FullStackByte</a>
 - <a href="https://twitter.com/moderndotweb">@Modern Web</a>
 - <a href="https://twitter.com/JavaScriptDaily">@JavaScriptDaily</a>
@@ -27,11 +28,7 @@ On the <strong><a style="color:green" href="Utilities"> utilities </a></strong> 
 
 #### Contributors
 
-- Jose
-  - <a href="https://medium.com/@jhervasdiaz">Medium</a>
-  - <a href="https://twitter.com/zelzebu">Twitter</a>
-
-#### Contributing
+- <a href="https://medium.com/@jhervasdiaz">Jose I. Hervás Díaz</a>
 
  Issues and pull requests are more than welcomed.
 
