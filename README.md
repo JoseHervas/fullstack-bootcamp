@@ -6,7 +6,9 @@ This repo contains resources for the bootcamp "Full-stack developer".
 
 On the <strong><a style="color:green" href="Contents"> contents </a></strong> folder you will find recommended lectures & challenges to test your skills on many areas of the front and back-end development.
 
-On the <strong><a style="color:green" href="Utilities"> utilities </a></strong> folder you will find cheatsheets, checklists, READMEs templates, etc...
+On the <strong><a style="color:green" href="Utilities"> utilities </a></strong> folder you will find tools like cheatsheets, checklists, READMEs templates, etc...
+
+On the <strong><a style="color:green" href="examples.md">examples</a></strong> file you will find links to projects that we will discuss on class.
 
 #### Indispensable resources for the web dev
 
